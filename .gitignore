@@ -1,0 +1,26 @@
+# Ignore compiled object files and executables
+*.o
+*.obj
+*.exe
+*.out
+*.out.*
+*.dll
+*.lib
+*.a
+*.lo
+*.sbr
+*.ilk
+*.pdb
+
+# Ignore temporary and backup files
+*~
+*.swp
+*.tmp
+*.temp
+
+# Ignore editor and IDE settings
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
